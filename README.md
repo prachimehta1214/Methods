@@ -1,5 +1,5 @@
 # Methods
-**Unary & Binary Operators**
+**Unary & Binary Operators**  
 Mathematically, an operation is a calculation on one or more values called operands mapping to an output value. An operator is a symbol/sign that maps operands to output values.  
 
 *** A unary operator is one that takes a single operand/argument and performs an operation.**
