@@ -2,7 +2,7 @@
 *Unary & Binary Operators*
 Mathematically, an operation is a calculation on one or more values called operands mapping to an output value. An operator is a symbol/sign that maps operands to output values.  
 
-** A unary operator is one that takes a single operand/argument and performs an operation.*
+* * A unary operator is one that takes a single operand/argument and performs an operation.*
   * Unary plus (+):	Tries to convert the operand into a number
   * Unary negation (-):	Tries to convert the operand into a number and negates after
   * Logical Not (!):	Converts to boolean value then negates it
