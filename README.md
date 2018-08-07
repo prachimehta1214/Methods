@@ -15,18 +15,18 @@ Mathematically, an operation is a calculation on one or more values called opera
 
 * **A binary operator is an operator that operates on two operands and manipulates them to return a result.**
 Some common binary operators in computing include:
- * Equal (==)
- * Not equal (!=)
- * Less than (<)
- * Greater than (>)
- * Greater than or equal to (>=)
- * Less than or equal to (<=)
- * Logical AND (&&)
- * Logical OR (||)
- * Plus (+)
- * Minus (-)
- * Multiplication (*)
- * Divide (/)
+  * Equal (==)
+  * Not equal (!=)
+  * Less than (<)
+  * Greater than (>)
+  * Greater than or equal to (>=)
+  * Less than or equal to (<=)
+  * Logical AND (&&)
+  * Logical OR (||)
+  * Plus (+)
+  * Minus (-)
+  * Multiplication (*)
+  * Divide (/)
  
  
 ## Learning Objective 
