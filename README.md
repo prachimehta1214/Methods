@@ -30,6 +30,10 @@ Some common binary operators in computing include:
  
  
 ## Learning Objective 
+* To understand what unary & Binary operators are
+* To learn about primitive methods
+* To assess various methods
+* Learn the difference between string() vs tostring()
 
 ## Snippet Code
 ```Javascipt
