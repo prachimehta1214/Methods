@@ -40,3 +40,4 @@ Some common binary operators in computing include:
 "a string".charAt(2,4) + "ee";
 ```
 ## Helpful Links
+[Techopedia](https://www.techopedia.com/definition/23953/binary-operator)
