@@ -2,7 +2,7 @@ let input = a string;
 let expected = see;
 let output;
 
-console.log("String(arg).charAt(2) + String("ee"));
+console.log(String(arg).charAt(2) + String("ee"));
 console.log("- " + input + " should become " + expected);
 
 { //  (string, a string) -> (string, see)
