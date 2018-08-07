@@ -13,7 +13,22 @@ Mathematically, an operation is a calculation on one or more values called opera
   * delete:	Deletes specific index of an array or specific property of an object
   * void:	Discards a return value of an expression.
 
-
+* **A binary operator is an operator that operates on two operands and manipulates them to return a result.**
+Some common binary operators in computing include:
+ * Equal (==)
+ * Not equal (!=)
+ * Less than (<)
+ * Greater than (>)
+ * Greater than or equal to (>=)
+ * Less than or equal to (<=)
+ * Logical AND (&&)
+ * Logical OR (||)
+ * Plus (+)
+ * Minus (-)
+ * Multiplication (*)
+ * Divide (/)
+ 
+ 
 ## Learning Objective 
 
 ## Snippet Code
